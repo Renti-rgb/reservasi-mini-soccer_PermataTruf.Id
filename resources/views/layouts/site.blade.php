@@ -302,7 +302,7 @@
                 <div id="kontak">
                     <div class="footer-title">Hubungi Kami</div>
                     <div class="footer-contact">
-                        +62 812-3456-7890<br>
+                        +62 851-2290-4538<br>
                         info@permataturf.id<br>
                         Jl. Permata Hijau Raya No. 12,<br>
                         Jakarta Selatan
